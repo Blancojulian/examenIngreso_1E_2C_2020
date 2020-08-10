@@ -36,7 +36,7 @@ c)la marca del más barato de los sólidos
 
     do {
       tipo = prompt("Ingrese tipo de producto: solido/liquido")
-    } while (vSexo != "solido" && vSexo != "liquido");
+    } while (tipo != "solido" && tipo != "liquido");
 
 
 
