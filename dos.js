@@ -57,7 +57,7 @@ c)la marca del más barato de los sólidos
 
     do {
       respuesta = prompt("¿Desea seguir ingresando producto: si/no?")
-    } while (vSexo != "si" && vSexo != "no");
+    } while (respuesta != "si" && respuesta != "no");
 
   } while (respuesta == "si");
 
